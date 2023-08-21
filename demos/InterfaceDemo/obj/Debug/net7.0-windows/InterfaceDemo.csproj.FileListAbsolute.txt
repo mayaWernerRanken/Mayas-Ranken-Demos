@@ -1,0 +1,17 @@
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\bin\Debug\net7.0-windows\InterfaceDemo.exe
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\bin\Debug\net7.0-windows\InterfaceDemo.deps.json
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\bin\Debug\net7.0-windows\InterfaceDemo.runtimeconfig.json
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\bin\Debug\net7.0-windows\InterfaceDemo.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\bin\Debug\net7.0-windows\InterfaceDemo.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.Form1.resources
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.csproj.GenerateResource.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.AssemblyInfo.cs
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\refint\InterfaceDemo.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\InterfaceDemo.genruntimeconfig.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\InterfaceDemo\obj\Debug\net7.0-windows\ref\InterfaceDemo.dll

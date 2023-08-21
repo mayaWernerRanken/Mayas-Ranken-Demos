@@ -1,0 +1,11 @@
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\bin\Debug\StudentGradesConsole001.exe.config
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\bin\Debug\StudentGradesConsole001.exe
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\bin\Debug\StudentGradesConsole001.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\bin\Debug\StudentGradeLibrary2.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\bin\Debug\StudentGradeLibrary2.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.csproj.AssemblyReference.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.csproj.SuggestedBindingRedirects.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.csproj.CoreCompileInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.csproj.CopyComplete
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.exe
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.pdb

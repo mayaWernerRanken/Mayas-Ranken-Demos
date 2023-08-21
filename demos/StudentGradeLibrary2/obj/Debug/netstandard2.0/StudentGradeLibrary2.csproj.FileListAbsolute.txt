@@ -1,0 +1,10 @@
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\bin\Debug\netstandard2.0\StudentGradeLibrary2.deps.json
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\bin\Debug\netstandard2.0\StudentGradeLibrary2.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\bin\Debug\netstandard2.0\StudentGradeLibrary2.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\obj\Debug\netstandard2.0\StudentGradeLibrary2.csproj.AssemblyReference.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\obj\Debug\netstandard2.0\StudentGradeLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\obj\Debug\netstandard2.0\StudentGradeLibrary2.AssemblyInfoInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\obj\Debug\netstandard2.0\StudentGradeLibrary2.AssemblyInfo.cs
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\obj\Debug\netstandard2.0\StudentGradeLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\obj\Debug\netstandard2.0\StudentGradeLibrary2.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\AWD1100-Summer2023-mayaRanken\demos\StudentGradeLibrary2\obj\Debug\netstandard2.0\StudentGradeLibrary2.pdb
