@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\InterfaceDemo\\InterfaceDemo.csproj": {}
+    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\InterfaceDemo\\InterfaceDemo.csproj": {
+    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\InterfaceDemo\\InterfaceDemo.csproj",
+        "projectUniqueName": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj",
         "projectName": "InterfaceDemo",
-        "projectPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\InterfaceDemo\\InterfaceDemo.csproj",
+        "projectPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj",
         "packagesPath": "C:\\Users\\jemel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\InterfaceDemo\\obj\\",
+        "outputPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jemel\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A030t+OiY7/9krcl8wn7wMEixuIDScOGH0XF1hNhBWSeAD+OjYs2Silkb1OfnusRhCJgyC8MNQESkllu+TClzg==",
+  "dgSpecHash": "MAO0wDU07wQc1UnBoYqi2ybjYm/jQMcBc0AsiXBMXpbBILgebadHviehNNdT9u8nXACFMKPoI36xIe3QOJdQDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
+  "projectFilePath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jemel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jemel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

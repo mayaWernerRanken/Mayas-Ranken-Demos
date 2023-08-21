@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
+      "projectUniqueName": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
       "projectName": "StudentGradeLibrary2",
-      "projectPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
+      "projectPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
       "packagesPath": "C:\\Users\\jemel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\StudentGradeLibrary2\\obj\\",
+      "outputPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jemel\\AppData\\Roaming\\NuGet\\NuGet.Config",

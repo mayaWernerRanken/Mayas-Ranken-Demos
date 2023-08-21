@@ -17,8 +17,10 @@ namespace StudentGradesConsole02
         {
             //Read list of students from the
             //Text file names grades.txt
+            //replace the "grades.txt" directory with your own copied-pasted directory of grades.txt
+            //i had to remove the original directory so i wouldn't dox myself xp
             List<Student> students = ReadStudentFromFile(
-                                "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\AWD1100-Summer2023-mayaRanken\\demos\\grades.txt");
+                                "grades.txt");
 
             bool runAgain = true;
             
