@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\jemel\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jemel\\.nuget\\packages"
+      "C:\\Users\\Maya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maya\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

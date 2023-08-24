@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGradesConsole001", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGradesConsole02", "StudentGradesConsole02\StudentGradesConsole02.csproj", "{28A2A8F1-BCCD-4DD1-9A28-AD9A3F1C4350}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bandGen", "bandGen\bandGen.csproj", "{0A5F081B-9010-40DD-9B08-325406543057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{28A2A8F1-BCCD-4DD1-9A28-AD9A3F1C4350}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A2A8F1-BCCD-4DD1-9A28-AD9A3F1C4350}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A2A8F1-BCCD-4DD1-9A28-AD9A3F1C4350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5F081B-9010-40DD-9B08-325406543057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5F081B-9010-40DD-9B08-325406543057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5F081B-9010-40DD-9B08-325406543057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5F081B-9010-40DD-9B08-325406543057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
