@@ -1,0 +1,17 @@
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\bin\Debug\net6.0-windows\TestSalesTransaction.exe
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\bin\Debug\net6.0-windows\TestSalesTransaction.deps.json
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\bin\Debug\net6.0-windows\TestSalesTransaction.runtimeconfig.json
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\bin\Debug\net6.0-windows\TestSalesTransaction.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\bin\Debug\net6.0-windows\TestSalesTransaction.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.csproj.AssemblyReference.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.Form1.resources
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.csproj.GenerateResource.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.AssemblyInfoInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.AssemblyInfo.cs
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.csproj.CoreCompileInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\refint\TestSalesTransaction.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\TestSalesTransaction.genruntimeconfig.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestSalesTransaction\obj\Debug\net6.0-windows\ref\TestSalesTransaction.dll

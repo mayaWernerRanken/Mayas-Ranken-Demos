@@ -1,0 +1,17 @@
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\bin\Debug\net6.0-windows\TestClassifiedAd.exe
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\bin\Debug\net6.0-windows\TestClassifiedAd.deps.json
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\bin\Debug\net6.0-windows\TestClassifiedAd.runtimeconfig.json
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\bin\Debug\net6.0-windows\TestClassifiedAd.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\bin\Debug\net6.0-windows\TestClassifiedAd.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.csproj.AssemblyReference.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.Form1.resources
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.csproj.GenerateResource.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.AssemblyInfoInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.AssemblyInfo.cs
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.csproj.CoreCompileInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\refint\TestClassifiedAd.dll
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\TestClassifiedAd.genruntimeconfig.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\allawd1100coursework-mayaWernerRanken\ClassDemoObject\TestClassifiedAd\obj\Debug\net6.0-windows\ref\TestClassifiedAd.dll
