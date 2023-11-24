@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\TestClassifiedAd.csproj": {}
+    "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\TestClassifiedAd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\TestClassifiedAd.csproj": {
+    "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\TestClassifiedAd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\TestClassifiedAd.csproj",
+        "projectUniqueName": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\TestClassifiedAd.csproj",
         "projectName": "TestClassifiedAd",
-        "projectPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\TestClassifiedAd.csproj",
-        "packagesPath": "C:\\Users\\jemel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\obj\\",
+        "projectPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\TestClassifiedAd.csproj",
+        "packagesPath": "C:\\Users\\Maya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestClassifiedAd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jemel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

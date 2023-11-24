@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jemel\\.nuget\\packages\\": {}
+    "C:\\Users\\Maya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\MoviesDemo\\MoviesDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\MoviesDemo\\MoviesDemo.csproj",
       "projectName": "MoviesDemo",
-      "projectPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\MoviesDemo\\MoviesDemo.csproj",
-      "packagesPath": "C:\\Users\\jemel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\MoviesDemo\\obj\\",
+      "projectPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\MoviesDemo\\MoviesDemo.csproj",
+      "packagesPath": "C:\\Users\\Maya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\MoviesDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jemel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
