@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj": {}
+    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj": {
+    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj",
+        "projectUniqueName": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj",
         "projectName": "InterfaceDemo",
-        "projectPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj",
-        "packagesPath": "C:\\Users\\Maya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\obj\\",
+        "projectPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\InterfaceDemo.csproj",
+        "packagesPath": "C:\\Users\\jemel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\InterfaceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Maya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jemel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
