@@ -63,7 +63,7 @@ namespace StudentGradesConsole001
             }
             Console.WriteLine($"Student {searchName} not found.");
 
-            Console.ReadLine();
+            
         }
 
         static void CalculateOverallGrade(Student student)
@@ -79,16 +79,26 @@ namespace StudentGradesConsole001
             string yesOrNo = "";            //what user enters (Y / N)
             char firstChar = ' ';           //first character of yesOrNo
 
-            Console.Write("Run program again? (Y/N)");
+            Console.Write("Run program again? (Y/N)\n");
             yesOrNo = Console.ReadLine();
 
             if (yesOrNo.Trim() != "")
             {
                 firstChar = yesOrNo[0];
 
-                if ( firstChar != 'Y')
+                if ( firstChar == 'N')
                 {
                     result = false;
+                }
+                else if ( firstChar == 'Y')
+                {
+                    result = true;
+                    
+                }
+                else
+                {
+                    Console.WriteLine("WRITE 'Y' OR 'N' YOU DUMBFUCK!!!!");
+                    Again();
                 }
             }
             return result;
