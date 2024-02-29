@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Maya\\.nuget\\packages\\": {}
+    "C:\\Users\\jemel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
+      "projectUniqueName": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
       "projectName": "StudentGradeLibrary2",
-      "projectPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
-      "packagesPath": "C:\\Users\\Maya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\obj\\",
+      "projectPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\StudentGradeLibrary2.csproj",
+      "packagesPath": "C:\\Users\\jemel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StudentGradeLibrary2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Maya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jemel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -212,6 +212,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -236,7 +241,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

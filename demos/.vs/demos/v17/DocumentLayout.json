@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2017376-DE31-4C79-8877-3D0EF22F77CB}|StoreDemo\\StoreDemo.csproj|c:\\users\\jemel\\onedrive\\documents\\github\\mayas-ranken-demos\\demos\\storedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2017376-DE31-4C79-8877-3D0EF22F77CB}|StoreDemo\\StoreDemo.csproj|solutionrelative:storedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StoreDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\StoreDemo\\Program.cs",
+              "RelativeToolTip": "StoreDemo\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T05:59:01.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

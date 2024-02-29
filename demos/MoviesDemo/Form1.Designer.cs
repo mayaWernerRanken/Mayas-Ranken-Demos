@@ -132,6 +132,7 @@
             // 
             // txtMovieDescription
             // 
+            txtMovieDescription.BackColor = Color.White;
             txtMovieDescription.Location = new Point(143, 86);
             txtMovieDescription.Margin = new Padding(3, 2, 3, 2);
             txtMovieDescription.Multiline = true;
@@ -208,6 +209,7 @@
             // 
             // txtUpdateDescription
             // 
+            txtUpdateDescription.BackColor = Color.White;
             txtUpdateDescription.Location = new Point(178, 79);
             txtUpdateDescription.Margin = new Padding(3, 2, 3, 2);
             txtUpdateDescription.Multiline = true;
@@ -253,6 +255,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.White;
             ClientSize = new Size(830, 424);
             Controls.Add(grpUpdate);
             Controls.Add(lblAddResult);

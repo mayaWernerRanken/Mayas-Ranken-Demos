@@ -15,9 +15,7 @@ C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesC
 C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\bin\Debug\StudentGradeLibrary2.dll
 C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\bin\Debug\StudentGradeLibrary2.pdb
 C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.csproj.AssemblyReference.cache
-C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.csproj.SuggestedBindingRedirects.cache
 C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.csproj.CoreCompileInputs.cache
-C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.csproj.CopyComplete
 C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.exe
 C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.pdb
 C:\Users\Maya\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\bin\Debug\StudentGradesConsole001.exe.config
@@ -31,3 +29,4 @@ C:\Users\Maya\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\
 C:\Users\Maya\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.csproj.CopyComplete
 C:\Users\Maya\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.exe
 C:\Users\Maya\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentGradesConsole001.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StudentGradesConsole001\obj\Debug\StudentG.F7E86A99.Up2Date

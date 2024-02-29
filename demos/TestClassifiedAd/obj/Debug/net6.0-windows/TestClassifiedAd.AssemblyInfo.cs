@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestClassifiedAd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c6d3d17c05ad2ef6fe5dbb95e3783165f79228")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestClassifiedAd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestClassifiedAd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

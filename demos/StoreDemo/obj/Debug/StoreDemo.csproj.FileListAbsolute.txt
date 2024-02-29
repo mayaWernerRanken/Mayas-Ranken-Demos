@@ -1,0 +1,7 @@
+C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StoreDemo\bin\Debug\StoreDemo.exe.config
+C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StoreDemo\bin\Debug\StoreDemo.exe
+C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StoreDemo\bin\Debug\StoreDemo.pdb
+C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StoreDemo\obj\Debug\StoreDemo.csproj.AssemblyReference.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StoreDemo\obj\Debug\StoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StoreDemo\obj\Debug\StoreDemo.exe
+C:\Users\jemel\OneDrive\Documents\GitHub\Mayas-Ranken-Demos\demos\StoreDemo\obj\Debug\StoreDemo.pdb

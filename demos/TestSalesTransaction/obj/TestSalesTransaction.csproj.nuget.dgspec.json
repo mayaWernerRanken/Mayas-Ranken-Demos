@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\TestSalesTransaction.csproj": {}
+    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\TestSalesTransaction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\TestSalesTransaction.csproj": {
+    "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\TestSalesTransaction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\TestSalesTransaction.csproj",
+        "projectUniqueName": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\TestSalesTransaction.csproj",
         "projectName": "TestSalesTransaction",
-        "projectPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\TestSalesTransaction.csproj",
-        "packagesPath": "C:\\Users\\Maya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maya\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\obj\\",
+        "projectPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\TestSalesTransaction.csproj",
+        "packagesPath": "C:\\Users\\jemel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jemel\\OneDrive\\Documents\\GitHub\\Mayas-Ranken-Demos\\demos\\TestSalesTransaction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Maya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jemel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
